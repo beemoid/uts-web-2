@@ -1,1 +1,9 @@
-Wahyu Bimo / 191011401238 / 12451 / 1235123 / 1244 / 1234123 / DKI Jakarta / 14 May 2022 13:23:00
+Operator= Wahyu Bimo
+NIM= 191011401238
+Wilayah= DKI Jakarta
+Waktu= 14 May 2022 13:42:53
+ 
+Jumlah Positif= 123214123
+Jumlah Di Rawat123124
+Jumlah Sembuh= 123123
+Jumlah Meninggal= 123123
